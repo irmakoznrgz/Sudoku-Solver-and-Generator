@@ -1,4 +1,4 @@
-# Custom Sudoku Solver & Generator (with Tkinter GUI)
+# Sudoku Solver & Generator (with Tkinter GUI)
 
 A complete Sudoku game built from scratch using Python. This project features a custom-built **Backtracking algorithm** to generate playable Sudoku boards and solve them automatically, wrapped in a user-friendly Tkinter graphical interface.
 
